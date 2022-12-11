@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohlobetse.Shared", "Mohlobetse.Shared\Mohlobetse.Shared.csproj", "{338318F5-0AE4-41A0-9981-0376B928A581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohlobetse.Server", "Mohlobetse.Server\Mohlobetse.Server.csproj", "{DAB9BCDF-8A83-40DF-B036-29E776C3D55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338318F5-0AE4-41A0-9981-0376B928A581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338318F5-0AE4-41A0-9981-0376B928A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338318F5-0AE4-41A0-9981-0376B928A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338318F5-0AE4-41A0-9981-0376B928A581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB9BCDF-8A83-40DF-B036-29E776C3D55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB9BCDF-8A83-40DF-B036-29E776C3D55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB9BCDF-8A83-40DF-B036-29E776C3D55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB9BCDF-8A83-40DF-B036-29E776C3D55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4433679C-0B72-47F2-A98B-57B44FB56EF7}
+	EndGlobalSection
+EndGlobal
